@@ -1,6 +1,3 @@
-# projeto-landing-page-1
-Este é o projeto de conclusão do modulo 1 do curso "Desenvolvedor Front-End", da escola de Tecnologia DNC
-
 # Projeto: Landing Page — Empresa de Arquitetura
 
 Este projeto foi desenvolvido como parte do **Desafio 01** da **Escola DNC**, no curso de **Desenvolvedor Front-End**, **Módulo 01**.  
